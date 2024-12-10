@@ -9,7 +9,7 @@ A highly motivated and enthusiastic second-year student at African Leadership Un
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- https://github.com/nyumaeric
 
 
 ## 🔗 Links
